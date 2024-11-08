@@ -1,11 +1,20 @@
 ## Hi there 👋 I'm Ghost
 
-Full stack engineer researching ML with a passion to implement AI into the Blockchain
+Full-stack engineer researching ML with a passion to implement AI into the Blockchain
 
-## Current Projects 
+# Current Projects 
 
+#### Redacted
+- An advanced AI agent for Twitter
+- https://github.com/nodeMevK/twitteragent
 
+#### Twitter Scraper
+- A reliable and fast twitter scraper
+- https://github.com/nodeMevK/twitteragent/blob/main/getTwitterInfo.py
 
+#### Ghost GPT
+- A small generative pretrained transformer from scratch
+- https://github.com/nodeMevK/gpt_from_scratch
 
 <!--
 **nodeMevK/nodeMevK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
