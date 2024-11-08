@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ghost
+## Hi there 👋 I'm Ghost 👻
 
 Full-stack engineer researching ML with a passion to implement AI into the Blockchain
 
