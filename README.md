@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Ghost
+
+Full stack engineer researching ML with a passion to implement AI into the Blockchain
+
+## Current Projects 
+
+
+
 
 <!--
 **nodeMevK/nodeMevK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
