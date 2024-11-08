@@ -4,7 +4,7 @@ Full-stack engineer researching ML with a passion to implement AI into the Block
 
 # Current Projects 
 
-#### Redacted
+#### [Redacted]
 - An advanced AI agent for Twitter
 - https://github.com/nodeMevK/twitteragent
 
