@@ -2,7 +2,7 @@
 
 <img src="hacked.jpg" width="100%" height="50%"/>
 
-Full-stack engineer and AI Researcher
+#### Full-stack engineer and AI Researcher
 # Current Projects 
 
 #### [Redacted]
