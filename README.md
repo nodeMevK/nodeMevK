@@ -2,8 +2,7 @@
 
 <img src="hacked.jpg" width="100%" height="50%"/>
 
-Full-stack engineer researching ML with a passion to implement AI into the Blockchain
-
+Full-stack engineer and AI Researcher
 # Current Projects 
 
 #### [Redacted]
